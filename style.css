@@ -1,0 +1,53 @@
+body {
+    background-image: url("41500063_p0.jpg");
+    line-height: 40px;
+}
+
+.headerInner{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba( 129, 190, 247, 0.88 );
+}
+
+#rogo {
+    width: 20%;
+    height: 20%;
+}
+
+#nav {
+    margin-top: 60px;
+    list-style: none;
+    display: flex
+}
+
+#nav li {
+    width: 140px;
+    text-align: center;
+    background-color: #000;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 5px;
+}
+
+#nav li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 20px;
+}
+
+main {
+    top: 120px;
+    width: 100%;
+    text-align: center;
+    background-color: rgba( 255, 255, 255, 0.97 );
+}
+
+.image {
+    margin-top: 10px;
+}
+
+h {
+    background-color: #fff;
+}
